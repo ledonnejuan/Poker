@@ -1,0 +1,7 @@
+c:\users\dev-9\documents\visual studio 2013\Projects\Don.Poker.Main\Don.Poker.Test\bin\Debug\Don.Poker.Test.dll
+c:\users\dev-9\documents\visual studio 2013\Projects\Don.Poker.Main\Don.Poker.Test\bin\Debug\Don.Poker.Test.pdb
+c:\users\dev-9\documents\visual studio 2013\Projects\Don.Poker.Main\Don.Poker.Test\bin\Debug\Don.Poker.Engine.dll
+c:\users\dev-9\documents\visual studio 2013\Projects\Don.Poker.Main\Don.Poker.Test\bin\Debug\Don.Poker.Engine.pdb
+c:\users\dev-9\documents\visual studio 2013\Projects\Don.Poker.Main\Don.Poker.Test\obj\Debug\Don.Poker.Test.csprojResolveAssemblyReference.cache
+c:\users\dev-9\documents\visual studio 2013\Projects\Don.Poker.Main\Don.Poker.Test\obj\Debug\Don.Poker.Test.dll
+c:\users\dev-9\documents\visual studio 2013\Projects\Don.Poker.Main\Don.Poker.Test\obj\Debug\Don.Poker.Test.pdb
